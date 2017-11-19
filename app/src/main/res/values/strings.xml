@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JHott-Leitsch_Lab1</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="loginHint">Enter A User Name</string>
+    <string name="loginBtnText">Login</string>
+</resources>
